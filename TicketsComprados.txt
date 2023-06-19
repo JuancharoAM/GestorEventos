@@ -1,0 +1,135 @@
+Romeo y Julieta,10/08/2023,20:00,Planta Oeste,Asiento 2
+Romeo y Julieta,10/08/2023,20:00,Planta Este,Asiento 5
+Bethooven,12/08/2023,20:30,Planta Este,Asiento 1
+Eladio Carrion,12/08/2023,20:30,Bloque1,Asiento 1
+Peso Pluma,23/08/2023,20:30,Platea,Asiento 8
+FCB vs RMD,11/08/2023,20:00,TribunaPrincipal,Asiento 1
+El atolondrado o los contratiempos,10/08/2023,20:00,Platea,Asiento 5
+SAP vs LDA,10/08/2023,20:00,TribunaPrincipal,Asiento 2
+FCB vs RMD,11/08/2023,20:00,TribunaPrincipal,Asiento 5
+FRA vs PAN,14/08/2023,20:00,TribunaSur,Asiento 8
+FRA vs PAN,14/08/2023,20:00,TribunaSur,Asiento 9
+Feid,13/08/2023,20:30,Patio de butacas,Asiento 8
+Feid,13/08/2023,20:30,Patio de butacas,Asiento 9
+Doctor chapatín,24-08-2023,20:30,Galería,Asiento 2
+Peso Pluma,23-08-2023,20:30,Platea,Asiento 9
+Natanael Cano,24-08-2023,20:00,Platea,Asiento 2
+Natanael Cano,24-08-2023,20:00,Platea,Asiento 3
+Young Miko,21-08-2023,20:30,Platea,Asiento 11
+El chapulin colorado,22-08-2023,20:00,Platea,Asiento 1
+BRA vs BEL,22-08-2023,20:00,GradaNorte,Asiento 12
+Recreativo1,14-09-2023,20:00,Zona Deportiva,Asiento 5
+Pinocho,14-08-2023,20:00,Área Juegos,Asiento 1
+Mickey Mouse,14-09-2023,20:00,Zona Creativa,Asiento 8
+Peso Pluma,23-08-2023,20:30,Platea,Asiento 15
+Peso Pluma,23-08-2023,20:30,Tribunas centrales,Asiento 1
+Don Juan Tenorio,24-08-2023,20:00,Platea,Asiento 1
+Young Miko,21-08-2023,20:30,Platea,Asiento 1
+CRC vs FRA,23-08-2023,20:00,TribunaPrincipal,Asiento 1
+CRC vs FRA,23-08-2023,20:00,TribunaPrincipal,Asiento 2
+Pinocho,14-08-2023,20:00,Zona Creativa,Asiento 50
+Duki,18-08-2023,20:30,Gradas traseras,Asiento 12
+Don Juan Tenorio,24-08-2023,20:00,Platea,Asiento 5
+Don Juan Tenorio,24-08-2023,20:00,Platea,Asiento 12
+Fuenteovejuna,22-08-2023,20:30,Platea,Asiento 6
+Don Juan Tenorio,24-08-2023,20:00,Platea,Asiento 2
+Don Juan Tenorio,24-08-2023,20:00,Platea,Asiento 3
+Don Juan Tenorio,24-08-2023,20:00,Balcón,Asiento 1
+Don Juan Tenorio,24-08-2023,20:00,Balcón,Asiento 2
+Mora,11-08-2023,20:00,Gradas laterales,Asiento 1
+CRC vs ARG,12-08-2023,20:30,TribunaPrincipal,Asiento 1
+Duki,18-08-2023,20:30,Platea,Asiento 21
+Cantinflas,20-08-2023,20:00,ZonaVIP,Asiento 2
+Conferencia de Transformación Digital,28-03-2024,15:30,Entrada General,Asiento 2
+Feria de Tecnología Innovadora,10-10-2023,10:00,Entrada General,Asiento 1
+One Piece,19-06-2024,20:00,Entrada General,Asiento 1
+RMD vs FCB,21-08-2023,20:30,TribunaNorte,Asiento 41
+Naruto,18-06-2024,20:00,Entrada General,Asiento 1
+La divina comedia,23-08-2023,20:30,Platea,Asiento 1
+La divina comedia,23-08-2023,20:30,Platea,Asiento 2
+La divina comedia,23-08-2023,20:30,Platea,Asiento 3
+La divina comedia,23-08-2023,20:30,Platea,Asiento 4
+La divina comedia,23-08-2023,20:30,Balcón,Asiento 11
+La divina comedia,23-08-2023,20:30,Balcón,Asiento 12
+La Celestina,21-08-2023,20:30,Palcos,Asiento 35
+La Celestina,21-08-2023,20:30,Palcos,Asiento 36
+La Celestina,21-08-2023,20:30,Palcos,Asiento 1
+La Celestina,21-08-2023,20:30,Palcos,Asiento 3
+La Celestina,21-08-2023,20:30,Palcos,Asiento 5
+La Celestina,21-08-2023,20:30,Palcos,Asiento 8
+Fuenteovejuna,22-08-2023,20:30,Galería,Asiento 12
+Fuenteovejuna,22-08-2023,20:30,Galería,Asiento 11
+Fuenteovejuna,22-08-2023,20:30,Galería,Asiento 9
+Mora,22-08-2023,20:00,Balcón,Asiento 6
+Mora,22-08-2023,20:00,Balcón,Asiento 9
+Mora,22-08-2023,20:00,Balcón,Asiento 12
+Mora,22-08-2023,20:00,Balcón,Asiento 15
+Graduación de la Promoción 2027,30-03-2027,10:00,Entrada General,Asiento 6
+Graduación de la Promoción 2027,30-03-2027,10:00,Entrada General,Asiento 9
+Estructura de datos,11-06-2024,16:00,Entrada General,Asiento 12
+Estructura de datos,11-06-2024,16:00,Entrada General,Asiento 51
+CRC vs FRA,23-08-2023,20:00,GradaSur,Asiento 13
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 14
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 21
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 13
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 10
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 9
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 6
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 5
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 59
+Young Miko,21-08-2023,20:30,Tribunas centrales,Asiento 61
+Pokemon,10-06-2024,20:00,Entrada General,Asiento 16
+Pokemon,10-06-2024,20:00,Entrada General,Asiento 18
+Pokemon,10-06-2024,20:00,Entrada General,Asiento 8
+Pokemon,10-06-2024,20:00,Entrada General,Asiento 6
+El enfermo imaginario,19-08-2023,20:30,Backstage,Asiento 17
+El enfermo imaginario,19-08-2023,20:30,Backstage,Asiento 18
+El enfermo imaginario,19-08-2023,20:30,Backstage,Asiento 15
+Naruto,18-06-2024,20:00,Entrada General,Asiento 3
+Naruto,18-06-2024,20:00,Entrada General,Asiento 12
+Doctor chapatín,24-08-2023,20:30,Palcos,Asiento 11
+Doctor chapatín,24-08-2023,20:30,Palcos,Asiento 12
+Doctor chapatín,24-08-2023,20:30,Balcón,Asiento 6
+Doctor chapatín,24-08-2023,20:30,Balcón,Asiento 9
+Doctor chapatín,24-08-2023,20:30,Balcón,Asiento 12
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 3
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 6
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 9
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 12
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 150
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 149
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 148
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 147
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 146
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 145
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 144
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 143
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 142
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 141
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 114
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 113
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 108
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 89
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 90
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 98
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 91
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 63
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 56
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 64
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 71
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 57
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 38
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 42
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 40
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 43
+Boku No Pico,08-06-2024,20:00,Entrada General,Asiento 47
+Kimetsu No Yaiba,17-06-2024,20:00,Entrada General,Asiento 6
+Kimetsu No Yaiba,17-06-2024,20:00,Entrada General,Asiento 12
+Kimetsu No Yaiba,17-06-2024,20:00,Entrada General,Asiento 21
+Kimetsu No Yaiba,17-06-2024,20:00,Entrada General,Asiento 16
+Kimetsu No Yaiba,17-06-2024,20:00,Entrada General,Asiento 2
+Kimetsu No Yaiba,17-06-2024,20:00,Entrada General,Asiento 11
+RMD vs FCB,21-08-2023,20:30,TribunaSur,Asiento 11
+RMD vs FCB,21-08-2023,20:30,TribunaSur,Asiento 12
+RMD vs FCB,21-08-2023,20:30,TribunaSur,Asiento 15
+RMD vs FCB,21-08-2023,20:30,TribunaSur,Asiento 6

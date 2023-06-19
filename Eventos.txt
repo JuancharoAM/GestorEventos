@@ -1,0 +1,160 @@
+Teatrales,Romeo y Julieta,10-08-2023,20:00,600,595,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Mozzart,11-08-2023,20:00,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Bethooven,12-08-2023,20:30,500,499,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Edgar Allan Po,13-08-2023,20:30,500,0,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Unica mirando al mar,14-08-2023,20:00,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Gaturro,15-08-2023,20:00,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,El fantasma de la ópera,16-08-2023,20:15,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Mil sombras de grey,17-08-2023,20:15,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Titanic,18-08-2023,20:30,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Hamlet,19-08-2023,20:00,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,La vida es sueño,20-08-2023,20:00,500,500,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,La Celestina,21-08-2023,20:30,500,498,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Fuenteovejuna,22-08-2023,20:30,500,498,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,La divina comedia,23-08-2023,20:30,500,494,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Teatrales,Don Juan Tenorio,24-08-2023,20:00,500,493,Platea&Balcón&Palcos&Anfiteatro&Galería&Paraíso&Vestíbulo&Pasillo
+Musicales,Bad Bunny,24-08-2023,20:00,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Mora,22-08-2023,20:00,500,498,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Eladio Carrion,12-08-2023,20:30,500,499,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Feid,13-08-2023,20:30,500,498,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Anuel AA,14-08-2023,20:00,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Paulo Londra,23-08-2023,20:00,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Jhay Cortes,16-08-2023,20:15,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Bizarrap,17-08-2023,20:15,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Duki,18-08-2023,20:30,500,498,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,YOVNCHIMI,19-08-2023,20:00,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Rauw,20-08-2023,20:00,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Young Miko,21-08-2023,20:30,500,497,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Cristhian Nodal,22-08-2023,20:30,500,500,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Peso Pluma,11-08-2023,20:30,500,497,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Musicales,Natanael Cano,10-08-2023,20:00,500,498,Platea&Balcón&Palcos&Gradas laterales&Tribunas centrales&Gradas traseras&Anfiteatro&Patio de butacas
+Deportivos,SAP vs LDA,10-08-2023,20:00,500,499,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,FCB vs RMD,11-08-2023,20:00,500,498,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,CRC vs ARG,12-08-2023,20:30,500,499,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,BRA vs MEX,13-08-2023,20:30,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,FRA vs PAN,14-08-2023,20:00,500,498,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,CRC vs BRA,15-08-2023,20:00,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,ARG vs FRA,16-08-2023,20:15,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,MEX vs PAN,17-08-2023,20:15,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,CRO vs BEL,18-08-2023,20:30,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,SUI vs GER,19-08-2023,20:30,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,LDA vs SAP,20-08-2023,20:00,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,RMD vs FCB,21-08-2023,20:30,500,495,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,BRA vs BEL,22-08-2023,20:00,500,499,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,CRC vs FRA,23-08-2023,20:00,500,497,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Deportivos,ARG vs MEX,24-08-2023,20:30,500,500,TribunaPrincipal&TribunaNorte&TribunaSur&TribunaEste&TribunaOeste&GradaNorte&GradaSur&GradaEste&GradaOeste
+Comedias,El atolondrado o los contratiempos,10-08-2023,20:00,500,499,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Mucho ruido y pocas nueces,11-08-2023,20:00,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Aulularia,12-08-2023,20:30,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Casa con dos puertas,13-08-2023,20:30,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,El nido ajeno,14-08-2023,20:00,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Las nubes,15-08-2023,20:00,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,El burlador de Sevilla,16-08-2023,20:15,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,El perro del hortelano,17-08-2023,20:15,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Noche de reyes,18-08-2023,20:30,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,El enfermo imaginario,19-08-2023,20:30,500,499,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Cantinflas,20-08-2023,20:00,500,499,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,El chavo del 8,21-08-2023,20:30,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,El chapulin colorado,22-08-2023,20:00,500,499,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Chespirito,23-08-2023,20:00,500,500,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Comedias,Doctor chapatín,24-08-2023,20:30,500,497,Platea&Balcón&Palcos&Galería&ZonaVIP&Barra&Terraza&Backstage
+Infantiles,Pinocho,14-08-2023,20:00,100,98,Área Juegos&Zona Creativa
+Infantiles,Mickey Mouse,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,Pucca,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,Tom & Jerry,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,Hora de aventura,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,365,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,Barbie,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,Toy Story,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Infantiles,Backyardigans,14-09-2023,20:00,100,99,Área Juegos&Zona Creativa
+Recreativos,Recreativo1,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos&Zona Creativa&Escenario Principal&Área de Descanso&Patio de Comidas
+Recreativos,Recreativo2,14-09-2023,20:00,100,99,Zona Deportiva
+Recreativos,Recreativo3,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento
+Recreativos,Recreativo4,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos
+Recreativos,Recreativo5,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos&Zona Creativa
+Recreativos,Recreativo6,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos&Zona Creativa&Escenario Principal
+Recreativos,Recreativo7,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos&Zona Creativa&Escenario Principal&Área de Descanso
+Recreativos,Recreativo8,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos&Zona Creativa&Escenario Principal&Área de Descanso&Patio de Comidas
+Recreativos,Recreativo9,14-09-2023,20:00,100,99,Zona Deportiva&Área de Entretenimiento&Espacio de Juegos&Zona Creativa&Escenario Principal&Área de Descanso&Patio de Comidas
+Corporativos,Conferencia de Innovación Empresarial,15-07-2023,09:00,500,250,Entrada General
+Corporativos,Seminario de Liderazgo Ejecutivo,22-09-2023,14:30,200,50,Entrada General
+Corporativos,Convención Internacional de Marketing,10-11-2023,10:00,1000,500,Entrada General
+Corporativos,Taller de Desarrollo de Habilidades Gerenciales,05-12-2023,13:00,50,10,Entrada General
+Corporativos,Foro de Emprendimiento y Startups,18-01-2024,11:00,300,100,Entrada General
+Corporativos,Conferencia de Transformación Digital,28-03-2024,15:30,150,50,Entrada General
+Corporativos,Feria Comercial de Tecnología,02-05-2024,10:00,1000,800,Entrada General
+Corporativos,Congreso de Recursos Humanos,20-06-2024,09:00,500,200,Entrada General
+Corporativos,Simposio de Innovación en la Industria Automotriz,10-09-2024,13:00,200,50,Entrada General
+Corporativos,Conferencia de Sostenibilidad Corporativa,05-11-2024,10:30,300,100,Entrada General
+Sociales,Boda de Ana y Carlos,25-07-2023,18:00,200,50,Entrada General
+Sociales,Fiesta de Cumpleaños de Juan,10-09-2023,20:00,100,20,Entrada General
+Sociales,Aniversario de Bodas de María y Luis,05-11-2023,19:30,150,100,Entrada General
+Sociales,Baby Shower de Laura,15-01-2024,15:00,50,10,Entrada General
+Sociales,Graduación de la Promoción 2024,30-03-2024,10:00,500,200,Entrada General
+Sociales,Graduación de la Promoción 2025,30-03-2025,10:00,500,200,Entrada General
+Sociales,Graduación de la Promoción 2026,30-03-2026,10:00,500,200,Entrada General
+Sociales,Graduación de la Promoción 2027,30-03-2027,10:00,500,199,Entrada General
+Sociales,Graduación de la Promoción 2028,30-03-2028,10:00,500,200,Entrada General
+Culturales,Festival de Cine Internacional,15-08-2023,18:30,300,100,Entrada General
+Culturales,Exposición de Arte Contemporáneo,22-10-2023,11:00,200,50,Entrada General
+Culturales,Representación Teatral "Romeo y Julieta",12-12-2023,20:00,150,50,Entrada General
+Culturales,Exhibición de Danza Folklórica,20-02-2024,19:00,100,20,Entrada General
+Culturales,Festival Gastronómico Internacional,05-05-2024,12:00,400,200,Entrada General
+Culturales,Vean Anime,05-05-2024,12:00,400,200,Entrada General
+Culturales,Festival Internacional de la cerveza,05-05-2024,12:00,400,200,Entrada General
+Culturales,Festival Internacional de los autos,05-05-2024,12:00,400,200,Entrada General
+Culturales,Comicon,05-05-2024,12:00,400,200,Entrada General
+Anime,Naruto,18-06-2024,20:00,150,98,Entrada General
+Anime,Naruto Shippuden,18-06-2024,23:00,150,100,Entrada General
+Anime,One Piece,19-06-2024,20:00,150,100,Entrada General
+Anime,Hunter x Hunter,20-06-2024,20:00,150,100,Entrada General
+Anime,Kimetsu No Yaiba,17-06-2024,20:00,150,94,Entrada General
+Anime,Doctor Stone,16-06-2024,20:00,150,100,Entrada General
+Anime,Full Metal Alchemist,15-06-2024,20:00,150,100,Entrada General
+Anime,Pokemon,10-06-2024,20:00,150,99,Entrada General
+Anime,Dragon Ball,09-06-2024,20:00,150,100,Entrada General
+Anime,Chainsaw Man,15-06-2024,20:00,150,100,Entrada General
+Anime,Death Note,14-06-2024,20:00,150,100,Entrada General
+Anime,One Punch Man,13-06-2024,20:00,150,100,Entrada General
+Anime,Shingeki No Kyojin,12-06-2024,20:00,150,100,Entrada General
+Anime,Tokyo Revengers,11-06-2024,20:00,150,100,Entrada General
+Anime,Tonikaku Kawaii,10-06-2024,20:00,150,100,Entrada General
+Anime,Boku No Pico,08-06-2024,20:00,150,69,Entrada General
+Moda,Desfile de Moda Primavera/Verano,18-09-2023,19:30,300,100,Entrada General
+Moda,Presentación de Diseñador Internacional,08-11-2023,16:00,100,50,Entrada General
+Moda,Evento de Lanzamiento de Marca,15-02-2024,18:00,200,100,Entrada General
+Moda,Feria de Moda Sostenible,25-04-2024,10:00,150,50,Entrada General
+Moda,Exhibición de Tendencias de Moda,05-06-2024,17:30,50,10,Entrada General
+Moda,Guchi,05-06-2024,17:30,50,10,Entrada General
+Moda,Pradera,05-06-2024,17:30,50,10,Entrada General
+Moda,Luis boton,05-06-2024,17:30,50,10,Entrada General
+Moda,Victoria tickets,05-06-2024,17:30,50,10,Entrada General
+Caridad,Gala Benéfica "Unidos por una Causa",10-08-2023,19:00,500,300,Entrada General
+Caridad,Subasta de Arte a Beneficio,15-10-2023,15:00,100,50,Entrada General
+Caridad,Maratón Solidario por la Educación,05-03-2024,08:00,1000,800,Entrada General
+Caridad,Evento de Voluntariado Comunitario,10-05-2024,14:00,50,20,Entrada General
+Caridad,Ayuden,25-05-2024,14:00,50,20,Entrada General
+Caridad,A,24-05-2024,14:00,50,20,Entrada General
+Caridad,Bagaces,23-05-2024,14:00,50,20,Entrada General
+Caridad,Hola,10-05-2024,14:00,50,20,Entrada General
+Caridad,Kbendicion,10-05-2024,14:00,50,20,Entrada General
+Educativos,Charla sobre Emprendimiento,15-11-2023,14:30,100,50,Entrada General
+Educativos,Curso de Marketing Digital,20-01-2024,18:00,200,150,Entrada General
+Educativos,Simposio de Educación Inclusiva,25-03-2024,10:00,150,100,Entrada General
+Educativos,Feria Educativa para Estudiantes,05-05-2024,11:00,300,200,Entrada General
+Educativos,Art Attack,05-05-2024,11:00,300,200,Entrada General
+Educativos,Dora la exploradora,05-05-2024,11:00,300,200,Entrada General
+Educativos,Relatividad,05-05-2024,11:00,300,200,Entrada General
+Educativos,Gucci,05-05-2024,11:00,300,200,Entrada General
+Educativos,Fuap,05-05-2024,11:00,300,200,Entrada General
+Tecnológicos,Feria de Tecnología Innovadora,10-10-2023,10:00,500,299,Entrada General
+Tecnológicos,Hackathon de Desarrollo de Aplicaciones,15-12-2023,09:00,100,20,Entrada General
+Tecnológicos,Encuentro de Startups y Emprendedores,20-02-2024,14:30,200,50,Entrada General
+Tecnológicos,Conferencia de Innovación y Tecnología,05-04-2024,18:00,300,200,Entrada General
+Tecnológicos,Presentación de Últimas Tendencias Tecnológicas,10-06-2024,16:00,150,100,Entrada General
+Tecnológicos,Estructura de datos,11-06-2024,16:00,150,99,Entrada General
+Tecnológicos,Programación,13-06-2024,16:00,150,100,Entrada General
+Tecnológicos,Merecemos,24-06-2024,16:00,150,100,Entrada General
+Tecnológicos,Un,23-06-2024,16:00,150,100,Entrada General
+Tecnológicos,100,22-06-2024,16:00,150,100,Entrada General
+Tecnológicos,Profe,21-06-2024,16:00,150,100,Entrada General
